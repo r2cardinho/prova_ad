@@ -1,0 +1,9 @@
+# Ambiente virtual e caches do Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Zip duplicado da pasta Estudos
+exercicio_billy/Estudos.zip

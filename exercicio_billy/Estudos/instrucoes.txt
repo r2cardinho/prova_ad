@@ -1,0 +1,15 @@
+python --version
+
+python3 --version
+
+pip install pytest
+
+pip3 install pytest
+
+pytest
+
+pytest test_conta.py (exemplo)
+
+pytest -v
+
+python -m pip install pytest
